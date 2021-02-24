@@ -1,3 +1,3 @@
 # DiceGame
-A simple DiceGame.
+
 
